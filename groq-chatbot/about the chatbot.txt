@@ -1,0 +1,32 @@
+8. What have you built?
+Component
+
+Technology
+
+Programming language
+
+Python
+
+AI provider
+
+Groq
+
+Language model
+
+openai/gpt-oss-20b
+
+API integration
+
+Groq SDK
+
+Conversation memory
+
+Python list
+
+Output
+
+Terminal
+
+Response generation
+
+Streaming

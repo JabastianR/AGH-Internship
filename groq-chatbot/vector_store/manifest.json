@@ -1,0 +1,39 @@
+{
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "chunk_size": 800,
+    "chunk_overlap": 120,
+    "files": [
+        {
+            "name": "Common_Course_Assignment_NLP.pdf",
+            "sha256": "7cf9e8d817454772760c2365cfd339fd4d35fa74b4144d1c91c2bad6d7e3ea73"
+        },
+        {
+            "name": "DAA capstone report team 4.pdf",
+            "sha256": "20c1b97d29f7a4ab251332f35e31ebda376f8ebccc4a3aba7a4ceda322ac39a6"
+        },
+        {
+            "name": "DSA03-NLP_CO1_AT1 Completed.pdf",
+            "sha256": "29a833ef5720457cd864c7faf4a88186cb2a8ca7a90b5cead2f2f03ce4bf7112"
+        },
+        {
+            "name": "DSA03-NLP_CO1_AT3 completed.pdf",
+            "sha256": "4c8bd2c3b9b39935174ea7f18867538bc4366ee911051f8155efdc98b2b344b4"
+        },
+        {
+            "name": "DSA03-NLP_CO2_AT1 completed.pdf",
+            "sha256": "2a26037d31b046b5a3d6e83d5afae553cfaf5352cd71f86267f9f74dc564b0db"
+        },
+        {
+            "name": "MACHINE LEARNING.pdf",
+            "sha256": "55bdade381bb03b957b4ad70fcd47311a24d7b0f01a5163f8a5e96c5e31f9719"
+        },
+        {
+            "name": "PDSD_capstone_report_new_format.pdf",
+            "sha256": "fd25d9b46d6e65dbbe99965a954e8069d3d9661573ad361f9d4fcb7bd09e4a17"
+        },
+        {
+            "name": "PYTHON PROGRAMMING NOTES.pdf",
+            "sha256": "d424bac8272cfb8967b5f881096f84cd9d0d9ff2ece2afdc91c6f90435b96159"
+        }
+    ]
+}

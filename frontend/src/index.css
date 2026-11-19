@@ -1,0 +1,16 @@
+/* index.css — minimal reset only. All app styles are in App.css */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+  width: 100%;
+  max-width: 100%;
+}

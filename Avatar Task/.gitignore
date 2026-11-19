@@ -1,0 +1,37 @@
+# Environment & Secrets (NEVER COMMIT)
+.env
+*.env
+backend/.env
+backend/.venv/.env
+
+# Python Virtual Environments & Cache
+.venv/
+.venv-*/
+backend/.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Node / Frontend
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+dist-ssr/
+*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
